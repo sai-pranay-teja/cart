@@ -5,17 +5,4 @@ env.app_lang="nodejs"
 
 
 ci_scripted()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// This is B2
