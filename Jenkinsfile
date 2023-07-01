@@ -4,5 +4,5 @@ env.component="cart"
 env.app_lang="nodejs"
 
 
-ci_scripted()
-// This is B2
+
+ci_scripted() //B2-----//
