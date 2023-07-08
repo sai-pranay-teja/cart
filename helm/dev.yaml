@@ -1,2 +1,3 @@
 component: cart
-# params: 
+# params: "REDIS_HOST:dev.elasticachae.endpoint,CATALOGUE_HOST:dev.catalogue.catalogue_host,CATALOGUE_PORT:dev.catalogue.catalogue_port"
+params: "REDIS_HOST:dev.cart.redis_host,CATALOGUE_HOST:dev.catalogue.catalogue_host,CATALOGUE_PORT:dev.catalogue.catalogue_port"
