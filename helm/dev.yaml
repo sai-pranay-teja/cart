@@ -3,3 +3,11 @@ params: "REDIS_HOST:dev.elasticache.endpoint,CATALOGUE_HOST:dev.cart.catalogue_h
 # params: "REDIS_HOST:dev.cart.redis_host,CATALOGUE_HOST:catalogue,CATALOGUE_PORT:8080"
 
 env: dev
+
+resources:
+   limits:
+     cpu: 300m
+     memory: 175Mi
+   requests:
+     cpu: 200m
+     memory: 128Mi
